@@ -1,6 +1,6 @@
 # Yoga AI Assistant
 
-**Yoga AI Assistant** is an intelligent yoga assistant powered by TensorFlow.js and PoseNet, capable of identifying and guiding users through 9 different yoga poses. It provides real-time voice and visual corrections, enhancing the user's practice experience.
+**Yoga AI Assistant** is an intelligent yoga assistant powered by TensorFlow.js and PoseNet, capable of identifying and guiding users through 6 different yoga poses. It provides real-time voice and visual corrections, enhancing the user's practice experience.
 
 ## Features
 
