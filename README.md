@@ -14,11 +14,11 @@
 Here are some screenshots of the app in action:
 
 ### Home Page
-![Home Page](./screenshots/1.png)
+![Home Page](Screenshots/1.png)
 
 ### Pose Selection Page
-![Poses](./screenshots/2.png)
-![Poses2](./screenshots/3.png)
+![Poses](Screenshots/2.png)
+![Poses2](Screenshots/3.png)
 
 ### Pose Detection and Correction Feedback
 ![Poses3](Screenshots/4.gif)
