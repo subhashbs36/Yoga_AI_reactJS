@@ -18,6 +18,8 @@ Here are some screenshots of the app in action:
 
 ### Pose Selection Page
 ![Poses](Screenshots/2.png)
+
+
 ![Poses2](Screenshots/3.png)
 
 ### Pose Detection and Correction Feedback
