@@ -21,7 +21,7 @@ Here are some screenshots of the app in action:
 ![Poses2](./screenshots/3.png)
 
 ### Pose Detection and Correction Feedback
-![Poses3](./screenshots/4.gif)
+![Poses3](Screenshots/4.gif)
 
 
 ## Getting Started
