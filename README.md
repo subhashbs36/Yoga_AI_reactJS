@@ -18,15 +18,10 @@ Here are some screenshots of the app in action:
 
 ### Pose Selection Page
 ![Poses](./screenshots/2.png)
-![Poses](./screenshots/3.png)
+![Poses2](./screenshots/3.png)
 
 ### Pose Detection and Correction Feedback
-<video width="320" height="240" controls>
-  <source src="./screenshots/4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
+![Poses3](./screenshots/4.gif)
 
 
 ## Getting Started
