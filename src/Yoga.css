@@ -1,0 +1,204 @@
+body{
+    background-color:#08AEEA;
+    /* background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);     */
+}
+#bob{
+    font-weight: bold;
+    font-size: 45px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    /* background-color: aqua; */
+    /*move the text to the left*/
+    /* margin-left: -90%; */
+    
+    padding: 23px 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+    
+}
+
+
+
+h1{
+    font-size: 80px;
+}
+li{
+    list-style: none;
+}
+
+
+
+
+
+.header {
+    z-index: 1;
+    overflow: hidden;
+    background-color: #f1f1f1;
+    padding: 20px 10px;
+    position: sticky;
+    top: 0;
+    background-color: hsl(196, 93%, 47%);
+    border-bottom-style: solid;
+    border-color: white;
+    margin: 10px;
+  }
+  
+  /* Style the header links */
+  .header a {
+    float: left;
+    color:#08AEEA;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    background-color: white;
+    font-size:1.3rem;
+    line-height: 25px;
+    border-radius: 25px;
+    padding: 10px;
+    margin-right: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+
+  }
+  
+  /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
+  .header a.logo {
+    font-weight: bold;
+    font-size: 45px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#08AEEA ;
+    /* background-color: aqua; */
+    /*move the text to the left*/
+    /* margin-left: -90%; */
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+
+  .header a.logo:hover{
+    background-color:#08AEEA ;
+    color: white;
+  }
+  
+  /* Change the background color on mouse-over */
+  .header a:hover {
+    background-color: #ffffff;
+    color: black;
+  }
+  
+  /* Style the active/current link*/
+  /* .header a.active {
+    background-color: dodgerblue;
+    color: white;
+  } */
+  
+  /* Float the link section to the right */
+  .header-right {
+    float: right;
+    font-weight: bold;
+    font-size: 45px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    /* background-color: aqua; */
+    /*move the text to the left*/
+    /* margin-left: -90%; */
+    
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  }
+
+  
+  
+  /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+  @media screen and (max-width: 500px) {
+    .header a {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+    .header-right {
+      float: none;
+    }
+  }
+
+.yoga{
+    overflow: visible;
+}
+
+.auth{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    margin-right:3em;
+}
+
+#home-btn{
+    position:absolute;
+    top:50%;
+    left:50%;
+    
+}
+.yoga{
+
+background-image: url("https://static.vecteezy.com/system/resources/previews/005/389/882/original/a-young-active-attractive-girl-is-doing-yoga-on-a-mat-virabhadrasana-pose-meditation-stretching-healthy-lifestyle-vector.jpg");
+background-size:cover;
+background-color: #08AEEA;
+border-top-style: solid;
+border-color: rgb(255, 255, 255);
+margin: 30px;
+border-style: none;
+border-radius: 25px;
+}
+
+#img1{
+    width: 75%;
+    height: 75%;
+    margin: 30px;
+    border-style: none;
+    border-radius: 25px;
+}
+
+#img2{
+    width: 75%;
+    height: 75%;
+    margin: 30px;
+    border-style: none;
+    border-radius: 25px;
+}
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    float: left;
+    width: 50%;
+    padding: 15px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+
+  }
+
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+
+    }
+  }
+
+
+
+
+
+
+
+
