@@ -1,9 +1,56 @@
-# Yoga Ai Assistant
-## This is a built using tensorflowJS Posenet and it can identify and assist around 9 different Yoga posses with voice and visual correction assistance
+# Yoga AI Assistant
 
-# Getting Started with Create React App
+**Yoga AI Assistant** is an intelligent yoga assistant powered by TensorFlow.js and PoseNet, capable of identifying and guiding users through 9 different yoga poses. It provides real-time voice and visual corrections, enhancing the user's practice experience.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Features
+
+- **Real-time Pose Identification**: Utilizes PoseNet to recognize 9 yoga poses with high accuracy.
+- **Voice Assistance**: Provides vocal feedback to correct and guide your movements.
+- **Visual Feedback**: Displays visual cues to help you improve your form.
+- **Responsive Design**: Works seamlessly on various screen sizes and devices.
+
+## Screenshots
+
+Here are some screenshots of the app in action:
+
+### Home Page
+![Home Page](./screenshots/1.png)
+
+### Pose Selection Page
+![Poses](./screenshots/2.png)
+![Poses](./screenshots/3.png)
+
+### Pose Detection and Correction Feedback
+<video width="320" height="240" controls>
+  <source src="./screenshots/4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
+
+## Getting Started
+
+To get started with the project locally:
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js
+- npm (Node Package Manager)
+  
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/yoga-ai-assistant.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd yoga-ai-assistant
 
 ## Available Scripts
 
